@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @ekaeoq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ekaeoq/ekaeoq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sometimes I stream, make videos, code but most of the time at least 2 at the same time
+https://www.youtube.com/ekaeo
+https://twitch.tv/ekaeo
